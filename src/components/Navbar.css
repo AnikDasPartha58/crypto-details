@@ -1,0 +1,15 @@
+.navabr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.icon{
+    font-size: 2rem;
+    color: orange;
+}
+
+.purple{
+    color: orange;
+}
